@@ -1,16 +1,4 @@
 //                                                  ***HOTEL MANAGEMENT SYSTEM**
-// This project is created collaboratively with the combined efforts of :-
-// 1.Ayush Kumar(EE19)
-// 2.Arunangshu Pal (EE16)
-// 3.Aman Vyas (MC04)
-// 4.Anuj Kumar (EE12)
-// 5.Ayush Srivastava (CE09)
-// 6.Devansh Jindal (AI09)
-// 7.Aryan Raj (PH32)
-// 8.Aditya Kumar (PH02)
-// 9.Abhinav Tiwari (CB04)
-// 10.Abhay Vyas (ME02)
-// We thank Professor Chandranath Adak and Professor Mayank Agarwal for their guidance
 
 
 
